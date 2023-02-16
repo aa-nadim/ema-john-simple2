@@ -1,4 +1,4 @@
-# ema-john-simple_2
+# 9. ema-john-simple_2
 
 1. Run Github clone react project, Create Cart Component(49-2)
 
